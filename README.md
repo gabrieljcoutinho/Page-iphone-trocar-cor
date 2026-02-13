@@ -14,3 +14,4 @@ Grafite
 
 Azul-sierra
 <img width="1202" height="756" alt="Image" src="https://github.com/user-attachments/assets/0bf5f5d2-1a41-46fd-9f52-873a95e87834" />
+ 
